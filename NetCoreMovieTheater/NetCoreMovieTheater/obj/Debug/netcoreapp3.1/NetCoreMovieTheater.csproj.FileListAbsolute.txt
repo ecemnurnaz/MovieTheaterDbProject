@@ -1,0 +1,363 @@
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\NetCoreMovieTheater.exe
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\NetCoreMovieTheater.deps.json
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\NetCoreMovieTheater.runtimeconfig.json
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\NetCoreMovieTheater.runtimeconfig.dev.json
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\NetCoreMovieTheater.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\NetCoreMovieTheater.pdb
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\NetCoreMovieTheater.Views.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\NetCoreMovieTheater.Views.pdb
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\NetCoreMovieTheater.csprojAssemblyReference.cache
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\NetCoreMovieTheater.AssemblyInfoInputs.cache
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\NetCoreMovieTheater.AssemblyInfo.cs
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\NetCoreMovieTheater.csproj.CoreCompileInputs.cache
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\NetCoreMovieTheater.MvcApplicationPartsAssemblyInfo.cache
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\NetCoreMovieTheater.RazorAssemblyInfo.cache
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\NetCoreMovieTheater.RazorAssemblyInfo.cs
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\staticwebassets\NetCoreMovieTheater.StaticWebAssets.Manifest.cache
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\staticwebassets\NetCoreMovieTheater.StaticWebAssets.xml
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\scopedcss\bundle\NetCoreMovieTheater.styles.css
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\NetCoreMovieTheater.TagHelpers.input.cache
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\NetCoreMovieTheater.TagHelpers.output.cache
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\NetCoreMovieTheater.RazorCoreGenerate.cache
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\NetCoreMovieTheater.RazorTargetAssemblyInfo.cache
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\NetCoreMovieTheater.RazorTargetAssemblyInfo.cs
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\NetCoreMovieTheater.Views.pdb
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\NetCoreMovieTheater.csproj.CopyComplete
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\NetCoreMovieTheater.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\NetCoreMovieTheater.pdb
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\NetCoreMovieTheater.genruntimeconfig.cache
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3144\10-NetCore\09.03\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\Razor\Views\Account\Create.cshtml.g.cs
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\NetCoreMovieTheater.exe
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\NetCoreMovieTheater.deps.json
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\NetCoreMovieTheater.runtimeconfig.json
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\NetCoreMovieTheater.runtimeconfig.dev.json
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\NetCoreMovieTheater.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\NetCoreMovieTheater.pdb
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\NetCoreMovieTheater.Views.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\NetCoreMovieTheater.Views.pdb
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\NetCoreMovieTheater.csprojAssemblyReference.cache
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\NetCoreMovieTheater.AssemblyInfoInputs.cache
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\NetCoreMovieTheater.AssemblyInfo.cs
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\NetCoreMovieTheater.csproj.CoreCompileInputs.cache
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\NetCoreMovieTheater.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\NetCoreMovieTheater.RazorAssemblyInfo.cache
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\NetCoreMovieTheater.RazorAssemblyInfo.cs
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\staticwebassets\NetCoreMovieTheater.StaticWebAssets.Manifest.cache
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\staticwebassets\NetCoreMovieTheater.StaticWebAssets.xml
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\scopedcss\bundle\NetCoreMovieTheater.styles.css
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\NetCoreMovieTheater.TagHelpers.input.cache
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\NetCoreMovieTheater.TagHelpers.output.cache
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\NetCoreMovieTheater.RazorCoreGenerate.cache
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\Razor\Views\Account\Create.cshtml.g.cs
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\NetCoreMovieTheater.RazorTargetAssemblyInfo.cache
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\NetCoreMovieTheater.RazorTargetAssemblyInfo.cs
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\NetCoreMovieTheater.Views.pdb
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\NetCoreMovieTheater.csproj.CopyComplete
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\NetCoreMovieTheater.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\NetCoreMovieTheater.pdb
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\NetCoreMovieTheater.genruntimeconfig.cache
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Create.cshtml.g.cs
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Delete.cshtml.g.cs
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Details.cshtml.g.cs
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Edit.cshtml.g.cs
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Index.cshtml.g.cs
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\Razor\Views\Movie\Create.cshtml.g.cs
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\Razor\Views\Movie\Delete.cshtml.g.cs
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\Razor\Views\Movie\Details.cshtml.g.cs
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\Razor\Views\Movie\Edit.cshtml.g.cs
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\Razor\Views\Movie\Index.cshtml.g.cs
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\Razor\Views\Salloon\Create.cshtml.g.cs
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\Razor\Views\Salloon\Delete.cshtml.g.cs
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\Razor\Views\Salloon\Details.cshtml.g.cs
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\Razor\Views\Salloon\Edit.cshtml.g.cs
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\Razor\Views\Salloon\Index.cshtml.g.cs
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\Razor\Views\Session\Create.cshtml.g.cs
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\Razor\Views\Session\Delete.cshtml.g.cs
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\Razor\Views\Session\Details.cshtml.g.cs
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\Razor\Views\Session\Edit.cshtml.g.cs
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\Razor\Views\Session\Index.cshtml.g.cs
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\Razor\Views\Week\Create.cshtml.g.cs
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\Razor\Views\Week\Delete.cshtml.g.cs
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\Razor\Views\Week\Details.cshtml.g.cs
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\Razor\Views\Week\Edit.cshtml.g.cs
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\obj\Debug\netcoreapp3.1\Razor\Views\Week\Index.cshtml.g.cs
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+C:\Users\ecem3\OneDrive\Masaüstü\NetCoreMovieTheater\NetCoreMovieTheater\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
